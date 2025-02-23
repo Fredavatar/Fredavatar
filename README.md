@@ -1,16 +1,23 @@
-## Hi there 👋
+## Ola, me chamo Frederico Dellú
 
-<!--
-**Fredavatar/Fredavatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante e estou no 3° semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
+- 🌱 Tenho conhecimento basico em C e lógica de programação.
+- 👯 Atualmente estou aprendendo Programação Orientada a Objetos em C#
+- 📫 Meu contato pessoal: fredericobarreto@hotmail.com.br
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Fredeavatar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredeavatar&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Fred-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://www.instagram.com/fredericodellu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
